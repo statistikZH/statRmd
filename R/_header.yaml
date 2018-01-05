@@ -1,0 +1,5 @@
+    documentclass: article
+    mainfont: arial
+    classoption: a4paper
+    geometry: left=3.5cm, right=1.65cm, top=1.8cm, bottom=1.8cm
+
