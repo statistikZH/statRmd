@@ -1,6 +1,6 @@
 # statRmd
 
-statRmd contains two templates for LaTex publications generated with RMarkdown. 
+statRmd contains two templates for LaTex publications generated with RMarkdown (conform to the cantonal CI guidelines). 
 
 `devtools::install_github("statistikZH/statRmd")`
 
